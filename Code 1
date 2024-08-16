@@ -5,7 +5,7 @@ e=campaignTrail_temp
   e.credits = "<button onclick='credits()'>Various people</button>";
   
   credits = function() {
-    credits = ["WRITING", "milothebest", "", "CODE", "Killeritch", "", "ADDITIONAL CODE AND ASSISTANCE", "DecstarG", "Thomahawk", "Nina", "Zip"]
+    credits = ["WRITING", "LucaTika", "", "CODE", "Killeritch", "", "ADDITIONAL CODE AND ASSISTANCE", "DecstarG", "Thomahawk", "Nina", "Zip"]
     text = "CREDITS:\n\n"
     for (i in credits) {
         text += credits[i] + "\n"
