@@ -558,9 +558,11 @@ tooltipList = [
 	{searchString: "Jospin", explanationText: "<img src=https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2012/7/16/1342446203234/Lionel-Jospin-008.jpg?width=465&dpr=1&s=none> Lionel Jospin, Prime minister from 1998 to 2002"},
 	{searchString: "Mediapart", explanationText: "<img src=https://upload.wikimedia.org/wikipedia/commons/2/23/Mediapart.png> Independent  investigation newspaper, the nightmare of corrupt politicians"},
 	{searchString: "Gaddafi case", explanationText: "<img src=https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/01/02/17/pg-27-sarkozy-1-rex.jpg?width=1200> Sarkozy is accused to have taken money from Gaddafi for his 2007 campaign, then to have invaded Libya and killing him before he talks"},
-//	{searchString: "are they?", explanationText: "They are, but not yet. Search for « Manif pour tous »"},
+        {searchString: "aren't they?", explanationText: "They are, but not yet. Search for « Manif pour tous »"},
 	{searchString: "Christine Boutin", explanationText: "<img src=https://img.huffingtonpost.com/asset/5cc0e2bc240000330024363f.jpeg?ops=scalefit_720_noupscale&format=webp> Anti-gay crusader"},
-//	{searchString: "", explanationText: "<img src=> "},
+        {searchString: "Mahmoud Abbas", Collaborates with the occupier of his country. We wouldn't let that happen in France right ?: "<img src=https://img.20mn.fr/kE4y85cxStKoDlujoSGq6g/722x460_president-autorite-palestinienne-mahmoud-abbas-conseil-europe-stasbourg-octobre-2011 "},
+        {searchString: "Shimon Peres", Symbolic head of state and war criminal: "<img src=https://img.src.ca/2011/05/10/635x357/AFP_110510shimon_peres_sn635.jpg "},
+// {searchString: 'explanation txt": "<img src=> image link}
 ];
 
 e.states_json = [
