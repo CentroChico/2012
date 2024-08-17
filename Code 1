@@ -59,15 +59,7 @@ e.election_json = [
 		"pk": 9,
 		"fields":{
 			"year":2012,
-			"summary":"Right after Sarkozy's election in 2007, France was hit successively by the 2008 financial crisis and the 2010 euro debt crisis. Rising unemployment and poverty add gloom and anger to a population already distrusting of its political establishment.
-
-The main target of those sentiment is of course incumbent Nicolas Sarkozy who'se brash lifestyle and neoliberal policies quickly earned him the label of “president of the rich” while is doubling-down on far-right talking-points has yet to pay off. 
-
-François Hollande is his main opponent, despite being also a pro-EU and neoliberal career politician. He is pretty much part of “the system” that more and more elector despise and he'd have to draw a contrast with Sarkozy if he wants to be seen as the candidate of change.
-
-Lower in the polls, other candidate want to take advantage of the cracks in the 2-party-sytem that dominated French politic since the 80's. Among them Marine Le Pen who capitalize on national identity having been put front and centre by Nicolas Sarkozy. Jean-Luc Mélenchon who aims to reconstitute the radical left at the expense of an increasingly modearate Socialist Party. And Centrist François Bayrou who'd have to find his footing between the 2 main candidates. 
-
-As French people are desperate to see better tomorrows, who will they choose to lead them out of the turmoil. ",
+			"summary":"Right after Sarkozy's election in 2007, France was hit successively by the 2008 financial crisis and the 2010 euro debt crisis. Rising unemployment and poverty add gloom and anger to a population already distrusting of its political establishment. The main target of those sentiment is of course incumbent Nicolas Sarkozy who'se brash lifestyle and neoliberal policies quickly earned him the label of “president of the rich” while is doubling-down on far-right talking-points has yet to pay off.François Hollande is his main opponent, despite being also a pro-EU and neoliberal career politician. He is pretty much part of “the system” that more and more elector despise and he'd have to draw a contrast with Sarkozy if he wants to be seen as the candidate of change.Lower in the polls, other candidate want to take advantage of the cracks in the 2-party-sytem that dominated French politic since the 80's. Among them Marine Le Pen who capitalize on national identity having been put front and centre by Nicolas Sarkozy. Jean-Luc Mélenchon who aims to reconstitute the radical left at the expense of an increasingly modearate Socialist Party. And Centrist François Bayrou who'd have to find his footing between the 2 main candidates.As French people are desperate to see better tomorrows, who will they choose to lead them out of the turmoil. ",
 			"image_url":"https://static.guim.co.uk/sys-images/Guardian/About/General/2012/5/6/1336315328380/French-Presidential-elect-008.jpg",
 			"winning_electoral_vote_number":270,
 			"advisor_url":"https://i.imgur.com/WSI8zZn.png",
@@ -172,15 +164,7 @@ e.candidate_json = [
 			"party":"PS",
 			"state":"Correze",
 			"priority":1,
-			"description":"François Hollande emerges as a unexpected contender in the 2012 French Presidential Election. Seen as the quintessential apparatchik by many, he comes off as uncharismatic, clumsy and is often the butt of the joke, be it in the media or within his own party. 
-
-His main political experience has been leading the Socialist for 11 years and has never had any cabinet position. Against former government members like Martine Aubry, Ségolène Royal and especially Dominique Strauss-Khan who is now IMF director, his lack of experience could cost him a lot. 
-
-Politically, his brand of pro-EU, supply-side centre-left policies have been weakened by the 2005 referendum on the European constitution. As he succeeded to pull his party on the “Yes” camp, leading the charge for a “Yes of the left”, dissenters and the rest of the left managed to mobilize for the “No” side who won at the end. Public outcry following Sarkozy's adoption of a treaty similar to what just had been refused by the French people trickling on François Hollande. 
-
-But with an unpopular Sarkozy and a bad economy, the election seems promised to the Socialist Party. Hollande has to take the shot.
-
-Do you have what it takes to resurrect Hollande's career all the way to the presidency ? Will you reinvent yourself as a left-wing trailblazer or double-down on your centrist credentials. Will you be the champion of progressives or a reassuring figure for moderates ? Will you be a great campaigner or will you let other priorities take the upper-hand ? .<br>",
+			"description":"François Hollande emerges as a unexpected contender in the 2012 French Presidential Election. Seen as the quintessential apparatchik by many, he comes off as uncharismatic, clumsy and is often the butt of the joke, be it in the media or within his own party.His main political experience has been leading the Socialist for 11 years and has never had any cabinet position. Against former government members like Martine Aubry, Ségolène Royal and especially Dominique Strauss-Khan who is now IMF director, his lack of experience could cost him a lot.Politically, his brand of pro-EU, supply-side centre-left policies have been weakened by the 2005 referendum on the European constitution. As he succeeded to pull his party on the “Yes” camp, leading the charge for a “Yes of the left”, dissenters and the rest of the left managed to mobilize for the “No” side who won at the end. Public outcry following Sarkozy's adoption of a treaty similar to what just had been refused by the French people trickling on François Hollande. But with an unpopular Sarkozy and a bad economy, the election seems promised to the Socialist Party. Hollande has to take the shot. Do you have what it takes to resurrect Hollande's career all the way to the presidency ? Will you reinvent yourself as a left-wing trailblazer or double-down on your centrist credentials. Will you be the champion of progressives or a reassuring figure for moderates ? Will you be a great campaigner or will you let other priorities take the upper-hand ? .<br>",
 			"color_hex":"#e63737",
 			"secondary_color_hex":null,
 			"is_active":1,
@@ -206,13 +190,7 @@ Do you have what it takes to resurrect Hollande's career all the way to the pres
 			"priority":1,
 			"description":"<br>As the incumbent President since 2007, Nicolas Sarkozy is the natural candidate  for the right. 
 
-Having climb the ladders of power in the 70's and 80's, Nicolas Sarkozy built himself a stronghold in the wealthy Haut-de-Seine with the benediction of his ally Jacques Chirac, from there he begins to build a powerful network in media, businesses, courts and police that he will not hesitate to use throughout his career. After the right's win at the 1993 legislative election, Sarkozy joined the government led by another ally of Chirac, Edouard Balladur. But when Balladur announced his presidential run, betraying Chirac, Sarkozy followed him only to be sidelined after Chirac surprise win in the 1995 election. 
-
-His purgatory period will last until 2002 when Chirac decided to bring back Balladur's people in government. As minister of the interior he built a public image as an energetic tough-on-crime politician, exploiting the media landscape put himself on top of the news almost every day. Particularly unpopular with the left, the youth and minorities, he quickly became loved by the right-wing electorate. The old-guard tried to prevent his rise but with Alain Juppé barred by scandals, Chirac himself disavowed by the failed 2005 referendum and the prestigious Dominique de Villepin unable to connect with the wider electorate, Nicolas Sarkozy was the right's natural candidate for the 2007 presidential election.
-
-After he won against Ségolène Royal, things quickly turned sour. His flashy lifestyle and unapologetic pro-business policies was criticized and he was branded as “President of the rich” quasi-immediatly after his election. Then the financial crash followed by the debt crisis tanked the economy resulting in even more massive unemployment than before, rising poverty and social tensions. Seemingly powerless on that front, he chose to “turn-to-the-right” by increasing his racist rhetoric on national identity, immigration, islam and romas, trying to court the votes of the far-right National Front at the risk of backfiring. To complicate things further, a slew of judicial scandals have been disclosed during Sarkozy's tenure, further eroding his popularity. Nicolas Sarkozy enters the 2012 election as the underdog against the unexpected socialist candidate, the unimpressive but cunning François Hollande.
-
-Are you capable of turning Sarkozy's fortune around and win him a 2nd term ? Will you try to set a moderate tone to convince centrist voters or carry on with the right-wing-turn regardless of the consequences for the country ? Will you try to rebuild a working-class electoral base or will you go all-in on neoliberalism ? Will you stay out of trouble or will you continue to play dirty ?.<br><br>",
+Having climb the ladders of power in the 70's and 80's, Nicolas Sarkozy built himself a stronghold in the wealthy Haut-de-Seine with the benediction of his ally Jacques Chirac, from there he begins to build a powerful network in media, businesses, courts and police that he will not hesitate to use throughout his career. After the right's win at the 1993 legislative election, Sarkozy joined the government led by another ally of Chirac, Edouard Balladur. But when Balladur announced his presidential run, betraying Chirac, Sarkozy followed him only to be sidelined after Chirac surprise win in the 1995 election.His purgatory period will last until 2002 when Chirac decided to bring back Balladur's people in government. As minister of the interior he built a public image as an energetic tough-on-crime politician, exploiting the media landscape put himself on top of the news almost every day. Particularly unpopular with the left, the youth and minorities, he quickly became loved by the right-wing electorate. The old-guard tried to prevent his rise but with Alain Juppé barred by scandals, Chirac himself disavowed by the failed 2005 referendum and the prestigious Dominique de Villepin unable to connect with the wider electorate, Nicolas Sarkozy was the right's natural candidate for the 2007 presidential election. After he won against Ségolène Royal, things quickly turned sour. His flashy lifestyle and unapologetic pro-business policies was criticized and he was branded as “President of the rich” quasi-immediatly after his election. Then the financial crash followed by the debt crisis tanked the economy resulting in even more massive unemployment than before, rising poverty and social tensions. Seemingly powerless on that front, he chose to “turn-to-the-right” by increasing his racist rhetoric on national identity, immigration, islam and romas, trying to court the votes of the far-right National Front at the risk of backfiring. To complicate things further, a slew of judicial scandals have been disclosed during Sarkozy's tenure, further eroding his popularity. Nicolas Sarkozy enters the 2012 election as the underdog against the unexpected socialist candidate, the unimpressive but cunning François Hollande. Are you capable of turning Sarkozy's fortune around and win him a 2nd term ? Will you try to set a moderate tone to convince centrist voters or carry on with the right-wing-turn regardless of the consequences for the country ? Will you try to rebuild a working-class electoral base or will you go all-in on neoliberalism ? Will you stay out of trouble or will you continue to play dirty ?.<br><br>",
 			"color_hex":"#0000ff",
 			"secondary_color_hex":null,"is_active":1,"image_url":"https://i.imgur.com/rDKTEJp.png",
 			"electoral_victory_message":"<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>",
@@ -224,7 +202,7 @@ Are you capable of turning Sarkozy's fortune around and win him a 2nd term ? Wil
 			"scrollable":false
 		}
 	},
-	// {
+	 {
 		"model":"campaign_trail.candidate",
 		"pk":79,
 		"fields":{
@@ -248,7 +226,7 @@ Are you capable of turning Sarkozy's fortune around and win him a 2nd term ? Wil
 			"scrollable":false
 		}
 	},
-   // {
+    {
         "model": "campaign_trail.candidate",
         "pk": 203,
         "fields": {
@@ -280,17 +258,7 @@ Are you capable of turning Sarkozy's fortune around and win him a 2nd term ? Wil
           "party": "PS",
           "state": "Paris",
           "priority": 1,
-          "description": Successor to the SFIO, the socialist party was established in 1969 as a big-tent for the whole non-communist left. Ranging from centre-left pro-European Christians to secular sovereignist Marxists, including post-68 democratic-socialists, Trotskyist activists along with well-established old school politicians.
-
-Among them François Mitterrand who succeeds to ally the party with the Communists. Together they draft an ambitious left-leaning platform that enables Mitterrand to win the presidency in 1981, becoming the first left-wing president of the fifth republic. 
-
-After two years of left-wing reforms, the economic turmoil caused by a silent investment strike and a bad global conjecture forces the government to make a choice, break with capitalism or stop the reforms. The later is chosen and the year 1983 is known as “the austerity turn” wich collapses the alliance with the communists.  Cuts in social benefits, easing of business's fiscality and EU-integration are on the menu. In 1986, the sweeping victory of the right forces Mitterrand to name their leader Jacques Chirac as the head of government. A Chirac he beats two years later, winning a 2nd presidential term where he doesn't rescind on the austerity turn. 
-
-After losing power in 1993, a PS now led by Lionel Jospin allies once again a weakened Communist Party as well as the emerging Greens and come back to power in 1998 with Jospin as prime minister of a now powerless president Jacques Chirac. Balancing social and progressive reforms with more neoliberal policies, Jospin sees the emergence of a socially-conservative left around Jean-Pierre Chevénement.  
-
-The perceived weakness of Jospin on the offshoring of jobs as well as a plethora of left-wing candidacies will lead to the disaster of April 21st 2002 where he misses out on the 2nd round to far-right candidate Jean-Marie Le Pen's profit. A trauma for the party and for the whole left.
-
-Since then the socialists were unable to retake power, Ségolène Royal loosing against Sarkozy in 2007, the unpopularity of the former could well be their chance. Hoping the designation of their candidate in an open primary, a rather new thing in France, will settle the issue of leadership that have plagued the party for years.
+          "description": Successor to the SFIO, the socialist party was established in 1969 as a big-tent for the whole non-communist left. Ranging from centre-left pro-European Christians to secular sovereignist Marxists, including post-68 democratic-socialists, Trotskyist activists along with well-established old school politicians. Among them François Mitterrand who succeeds to ally the party with the Communists. Together they draft an ambitious left-leaning platform that enables Mitterrand to win the presidency in 1981, becoming the first left-wing president of the fifth republic. After two years of left-wing reforms, the economic turmoil caused by a silent investment strike and a bad global conjecture forces the government to make a choice, break with capitalism or stop the reforms. The later is chosen and the year 1983 is known as “the austerity turn” wich collapses the alliance with the communists.  Cuts in social benefits, easing of business's fiscality and EU-integration are on the menu. In 1986, the sweeping victory of the right forces Mitterrand to name their leader Jacques Chirac as the head of government. A Chirac he beats two years later, winning a 2nd presidential term where he doesn't rescind on the austerity turn. After losing power in 1993, a PS now led by Lionel Jospin allies once again a weakened Communist Party as well as the emerging Greens and come back to power in 1998 with Jospin as prime minister of a now powerless president Jacques Chirac. Balancing social and progressive reforms with more neoliberal policies, Jospin sees the emergence of a socially-conservative left around Jean-Pierre Chevénement. The perceived weakness of Jospin on the offshoring of jobs as well as a plethora of left-wing candidacies will lead to the disaster of April 21st 2002 where he misses out on the 2nd round to far-right candidate Jean-Marie Le Pen's profit. A trauma for the party and for the whole left. Since then the socialists were unable to retake power, Ségolène Royal loosing against Sarkozy in 2007, the unpopularity of the former could well be their chance. Hoping the designation of their candidate in an open primary, a rather new thing in France, will settle the issue of leadership that have plagued the party for years.
           "color_hex": "#e63737",
           "secondary_color_hex": "#e63737",
           "is_active": 0,
@@ -312,9 +280,7 @@ Since then the socialists were unable to retake power, Ségolène Royal loosing 
           "party": "UMP",
           "state": "Paris",
           "priority": 1,
-          "description": The history of the mainstream right is intimately linked to General Charles de Gaulle. Leader of the French resistance, after the war he aimed to establish a new constitution with a powerful President at its head . Pushed aside by the very parliamentarian 4th republic, he took power in 1958 after a military coup on the backdrop of the Algerian war. He then founded the 5th republic and, to further legitimize the office of the president, he enacted its election by direct ballot, winning the first one in 1965, though a large victory, it wasn't the landslide expected. In 1969, De Gaulle lost a referendum and feeling disavowed, he resigned. Is tenure was marked by conservatism on social issues, dirigisme on the economy. As for foreign policy the main objective was to keep France statues as a great power by maintaining strategic autonomy, a neocolonial grip on Africa and diplomatic balance while remaining part of the West.   
-
-Unlike the left, for the Gaullist it's the leadership that define the party and not the other way around. As a consequences, Gaullist parties often changed names. UDR was the party of De Gaulle's successor George Pompidou, president between 1969 and 1974. In 1976 the more neoliberal Jacques Chirac took the party and renamed it RPR, keeping the prime ministership through control of the Assembly during the presidency of its centrist ally Valérie Giscard d'Estain until 1981. RPR regain the assembly between 1986 and 1988 and again in 1993 followed by the election of Jacques Chirac as president in 1995 only for him to loose his majority 2 years later. Reelected in 2002 while gaining is majority back, Chirac forms UMP to try, and mostly fail, to absorb its centrists allies. The loss of the European referendum in 2005 weakens Chirac for good and Nicolas Sarkozy become the natural leader of the right, winning the subsequent 2007 election. After 10 uninterrupted years in governments, the party hopes to remain in charge despite power fatigue, economic crisis, scandals and Sarkozy' unpopularity.
+          "description": The history of the mainstream right is intimately linked to General Charles de Gaulle. Leader of the French resistance, after the war he aimed to establish a new constitution with a powerful President at its head . Pushed aside by the very parliamentarian 4th republic, he took power in 1958 after a military coup on the backdrop of the Algerian war. He then founded the 5th republic and, to further legitimize the office of the president, he enacted its election by direct ballot, winning the first one in 1965, though a large victory, it wasn't the landslide expected. In 1969, De Gaulle lost a referendum and feeling disavowed, he resigned. Is tenure was marked by conservatism on social issues, dirigisme on the economy. As for foreign policy the main objective was to keep France statues as a great power by maintaining strategic autonomy, a neocolonial grip on Africa and diplomatic balance while remaining part of the West. Unlike the left, for the Gaullist it's the leadership that define the party and not the other way around. As a consequences, Gaullist parties often changed names. UDR was the party of De Gaulle's successor George Pompidou, president between 1969 and 1974. In 1976 the more neoliberal Jacques Chirac took the party and renamed it RPR, keeping the prime ministership through control of the Assembly during the presidency of its centrist ally Valérie Giscard d'Estain until 1981. RPR regain the assembly between 1986 and 1988 and again in 1993 followed by the election of Jacques Chirac as president in 1995 only for him to loose his majority 2 years later. Reelected in 2002 while gaining is majority back, Chirac forms UMP to try, and mostly fail, to absorb its centrists allies. The loss of the European referendum in 2005 weakens Chirac for good and Nicolas Sarkozy become the natural leader of the right, winning the subsequent 2007 election. After 10 uninterrupted years in governments, the party hopes to remain in charge despite power fatigue, economic crisis, scandals and Sarkozy' unpopularity.
           "color_hex": "#0000ff",
           "secondary_color_hex": "#0000ff",
           "is_active": 0,
@@ -326,7 +292,7 @@ Unlike the left, for the Gaullist it's the leadership that define the party and 
           "candidate_score": 1.0
         }
     },
-    // {
+    {
         "model": "campaign_trail.candidate",
         "pk": 89,
         "fields": {
@@ -348,7 +314,7 @@ Unlike the left, for the Gaullist it's the leadership that define the party and 
           "candidate_score": 1.0
         }
     },
-    // {
+     {
         "model": "campaign_trail.candidate",
         "pk": 207,
         "fields": {
