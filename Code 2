@@ -565,7 +565,7 @@ tooltipList = [
 // {searchString: 'explanation txt": "<img src=> image link}
 ];
 
-e.states_json = [
+campaignTrail_temp.states_json = [
 {'model':'campaign_trail.state','pk':0,'fields':{'name':'Essonne','abbr':'0','electoral_votes':1,'popular_votes':597251,'poll_closing_time':0,'winner_take_all_flg':1,'election':9}},
 {'model':'campaign_trail.state','pk':1,'fields':{'name':'Yvelines','abbr':'1','electoral_votes':1,'popular_votes':719313,'poll_closing_time':0,'winner_take_all_flg':1,'election':9}},
 {'model':'campaign_trail.state','pk':2,'fields':{'name':'Val-d\'Oise','abbr':'2','electoral_votes':1,'popular_votes':532715,'poll_closing_time':0,'winner_take_all_flg':1,'election':9}},
